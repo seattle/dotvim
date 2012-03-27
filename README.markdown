@@ -1,6 +1,6 @@
 # dotvim
 
-My ViM configuration. Its my current Python IDE.
+My ViM configuration.
 
 Works on GNU/Linux and Mac OSX.
 
@@ -10,7 +10,7 @@ You'll need ViM 7.3 or higher.
 ##Installation
 In your home directory:
 
-    git clone https://github.com/saghul/dotvim.git
+    git clone https://github.com/seattle/dotvim.git
 
     cd dotvim && ./install.sh
 
@@ -57,6 +57,7 @@ In your home directory:
 * [pydoc](https://github.com/fs111/pydoc.vim)
 * [pyflakes](https://github.com/mitechie/pyflakes-pathogen)
 * [pythoncomplete](https://github.com/vim-scripts/pythoncomplete)
+* [vim-ruby](https://github.com/vim-ruby/vim-ruby)
 * [snipMate](https://github.com/msanders/snipmate.vim)
 * [taglist](http://www.vim.org/scripts/script.php?script_id=273)
 * [tasklist](http://www.vim.org/scripts/script.php?script_id=2607)

@@ -292,3 +292,7 @@ if &term =~ '^screen'
     map! <Esc>OF <End>
 endif
 
+" vim-ruby
+filetype on           " Enable filetype detection
+filetype indent on    " Enable filetype-specific indenting
+filetype plugin on    " Enable filetype-specific plugins"
