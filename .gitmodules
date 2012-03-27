@@ -55,3 +55,6 @@
 [submodule "bundle/cfi"]
 	path = bundle/cfi
 	url = https://github.com/tyru/current-func-info.vim.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
